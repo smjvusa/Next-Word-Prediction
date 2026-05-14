@@ -72,6 +72,41 @@ Next Word Prediction
      ↓
 Streamlit Deployment
 
+
+# 📁 Project Structure
+
+next-word-prediction/
+│
+├── app.py                     # Streamlit web application
+├── Nextwordprediction.ipynb   # Model training notebook
+├── nextwordmodel.keras        # Trained deep learning model
+├── tokenizer.pkl              # Saved tokenizer object
+├── max_len.pkl                # Maximum sequence length
+├── requirements.txt           # Project dependencies
+├── README.md                  # Project documentation
+├── .gitignore                 # Ignored files and folders
+│
+└── outputs/
+    └── screenshots/           # Application output screenshots
+
+---------
+
+# ⚙️ Setup
+
+Install all required dependencies:
+
+pip install -r requirements.txt
+
+
+## ▶️ Run the Application
+
+Start the Streamlit application:
+
+streamlit run app.py
+
+
+---
+
 # 📸 Screenshots
 
 ## 🔹 Streamlit App
@@ -83,3 +118,9 @@ Streamlit Deployment
 ![Prediction Screenshot](screenshots/"C:\Users\ssvmj\OneDrive\Innomatics\Data Science\Module 8 NLP\Assignments\Nextword_prediction\outputs\prediction2.png")
 
 ---
+
+---
+
+# ☁️ Deployment
+
+The Next Word Prediction application was deployed using Streamlit and AWS EC2 for cloud-based access.
