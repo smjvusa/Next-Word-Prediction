@@ -73,8 +73,8 @@ Next Word Prediction
 Streamlit Deployment
 
 
-📁 Project Structure
-
+# 📁 Project Structure
+```text
 next-word-prediction/
 │
 ├── app.py                     # Streamlit web application
@@ -92,6 +92,7 @@ next-word-prediction/
 ---------
 
 ⚙️ Setup
+```bash
 
 Install all required dependencies:
 
@@ -99,6 +100,7 @@ pip install -r requirements.txt
 
 
 ▶️ Run the Application
+```bash
 
 Start the Streamlit application:
 
@@ -123,4 +125,4 @@ streamlit run app.py
 
 ☁️ Deployment
 
-The Next Word Prediction application was deployed using Streamlit and AWS EC2 for cloud-based access.
+The Next Word Prediction application was deployed using Streamlit framework.
