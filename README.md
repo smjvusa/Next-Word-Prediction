@@ -112,12 +112,12 @@ streamlit run app.py
 📸 Screenshots
 
 🔹 Streamlit App
-![App Screenshot](screenshots/"C:\Users\ssvmj\OneDrive\Innomatics\Data Science\Module 8 NLP\Assignments\Nextword_prediction\outputs\prediction1.png")
+![App Screenshot](outputs/prediction1.png")
 
 ---
 
 🔹 Prediction Output
-![Prediction Screenshot](screenshots/"C:\Users\ssvmj\OneDrive\Innomatics\Data Science\Module 8 NLP\Assignments\Nextword_prediction\outputs\prediction2.png")
+![Prediction Screenshot](outputs/prediction2.png")
 
 ---
 
