@@ -73,7 +73,7 @@ Next Word Prediction
 Streamlit Deployment
 
 
-# 📁 Project Structure
+📁 Project Structure
 
 next-word-prediction/
 │
@@ -91,14 +91,14 @@ next-word-prediction/
 
 ---------
 
-# ⚙️ Setup
+⚙️ Setup
 
 Install all required dependencies:
 
 pip install -r requirements.txt
 
 
-## ▶️ Run the Application
+▶️ Run the Application
 
 Start the Streamlit application:
 
@@ -107,20 +107,20 @@ streamlit run app.py
 
 ---
 
-# 📸 Screenshots
+📸 Screenshots
 
-## 🔹 Streamlit App
+🔹 Streamlit App
 ![App Screenshot](screenshots/"C:\Users\ssvmj\OneDrive\Innomatics\Data Science\Module 8 NLP\Assignments\Nextword_prediction\outputs\prediction1.png")
 
 ---
 
-## 🔹 Prediction Output
+🔹 Prediction Output
 ![Prediction Screenshot](screenshots/"C:\Users\ssvmj\OneDrive\Innomatics\Data Science\Module 8 NLP\Assignments\Nextword_prediction\outputs\prediction2.png")
 
 ---
 
 ---
 
-# ☁️ Deployment
+☁️ Deployment
 
 The Next Word Prediction application was deployed using Streamlit and AWS EC2 for cloud-based access.
