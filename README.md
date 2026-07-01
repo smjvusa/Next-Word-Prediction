@@ -112,12 +112,12 @@ streamlit run app.py
 📸 Screenshots
 
 🔹 Streamlit App
-![App Screenshot](outputs/prediction1.png")
+![App Screenshot](outputs/prediction1.png)
 
 ---
 
 🔹 Prediction Output
-![Prediction Screenshot](outputs/prediction2.png")
+![Prediction Screenshot](outputs/prediction2.png)
 
 ---
 
