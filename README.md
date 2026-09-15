@@ -45,7 +45,7 @@ This project addresses the problem by building a Bidirectional LSTM-based Next W
 
 # 🔄 Project Workflow
 
-   text
+```text
 Text Dataset
      ↓
 Tokenization
@@ -61,7 +61,7 @@ Next Word Prediction
 Streamlit Deployment
 
 
-# 📁 Project Structure
+#  Project Structure
 ```text
 next-word-prediction/
 │
@@ -77,27 +77,22 @@ next-word-prediction/
 └── outputs/
     └── screenshots/           # Application output screenshots
 
----------
-
-⚙️ Setup
-```bash
+Setup
+bash
 
 Install all required dependencies:
 
 pip install -r requirements.txt
 
 
-▶️ Run the Application
-```bash
+Run the Application
+bash
 
 Start the Streamlit application:
 
 streamlit run app.py
 
-
----
-
-📸 Screenshots
+Screenshots
 
 🔹 Streamlit App
 ![App Screenshot](outputs/prediction1.png)
@@ -107,10 +102,6 @@ streamlit run app.py
 🔹 Prediction Output
 ![Prediction Screenshot](outputs/prediction2.png)
 
----
-
----
-
-☁️ Deployment
+Deployment
 
 The Next Word Prediction application was deployed using Streamlit framework.
