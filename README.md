@@ -1,4 +1,3 @@
-# Next-Word-Prediction
 # Next Word Prediction using Bidirectional LSTM
 
 ## Overview
@@ -62,7 +61,7 @@ Streamlit Deployment
 
 
 #  Project Structure
-```text
+text
 next-word-prediction/
 │
 ├── app.py                     # Streamlit web application
@@ -78,18 +77,11 @@ next-word-prediction/
     └── screenshots/           # Application output screenshots
 
 Setup
-bash
-
 Install all required dependencies:
-
 pip install -r requirements.txt
 
-
 Run the Application
-bash
-
 Start the Streamlit application:
-
 streamlit run app.py
 
 Screenshots
